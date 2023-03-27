@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://azioba.github.io/</loc>
-    <lastmod>2023-02-23T10:58:08-04:00</lastmod>
+    <lastmod>2023-03-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="en"
                 href="https://azioba.github.io/"
                 />
+  </url><url>
+    <loc>https://azioba.github.io/post/chapter-6/</loc>
+    <lastmod>2023-03-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://azioba.github.io/post/chapter-1/</loc>
     <lastmod>2023-02-23T10:58:08-04:00</lastmod>
@@ -108,7 +113,7 @@
                 />
   </url><url>
     <loc>https://azioba.github.io/post/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <lastmod>2022-10-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

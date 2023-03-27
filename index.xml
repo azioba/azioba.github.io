@@ -6,7 +6,18 @@
     <description>Recent content in Bienvenue on M. HAMIDOU BA Abdoul Aziz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://azioba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 11:15:58 -0400</lastBuildDate><atom:link href="https://azioba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 6: Compétition Kaggle</title>
+      <link>https://azioba.github.io/post/chapter-6/</link>
+      <pubDate>Mon, 13 Mar 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://azioba.github.io/post/chapter-6/</guid>
+      <description>Machine Learning - Analyse du signal - Données déséquilibrées - GridSearchCV - Hyperparameters Tuning - Optuna - Atom Ce projet fait partie de la saison 3 des Playground Series de Kaggle. L&amp;rsquo;objectif étant la classification binaire de données synthétiques.
+Etapes:
+Analyse exploratoire des données afin de les comprendre pour mieux les utiliser. Gestion du déséquilibre des classes. Test de différents modèles de prédictions afin de répondre au mieux à la problématique.</description>
+    </item>
+    
     <item>
       <title>Projet 1: Classification d&#39;images</title>
       <link>https://azioba.github.io/post/chapter-1/</link>
@@ -52,10 +63,10 @@ Test de plusieurs méthodes de segmentation: DBScan, Clustering Hierarchique, K-
     <item>
       <title>Projet 5: Prédiction d&#39;énergie</title>
       <link>https://azioba.github.io/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <pubDate>Thu, 13 Oct 2022 11:15:58 -0400</pubDate>
       
       <guid>https://azioba.github.io/post/chapter-5/</guid>
-      <description>Machine Learning - Analyse du signal - Croos Validation - Hyperparameters Tuning - Explicabilité L&amp;rsquo;objectif de ce projet était la prédiction des émissions de CO2 et la consommation totale d&amp;rsquo;énergie de bâtiments pour lesquels elles n&amp;rsquo;ont pas encore été mesurées.
+      <description>Machine Learning - Analyse du signal - GridSearchCV - Hyperparameters Tuning - Explicabilité L&amp;rsquo;objectif de ce projet était la prédiction des émissions de CO2 et la consommation totale d&amp;rsquo;énergie de bâtiments pour lesquels elles n&amp;rsquo;ont pas encore été mesurées.
 Etapes:
 Analyse exploratoire des données afin de les comprendre pour mieux les utiliser. Test de différents modèles de prédictions afin de répondre au mieux à la problématique. Explicabilité locale et globale du modèles avec Lime et SHAP Répertoire Github du projet</description>
     </item>
